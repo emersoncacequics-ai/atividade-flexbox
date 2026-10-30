@@ -1,0 +1,17 @@
+body {
+    /* Substitua o link abaixo pelo caminho da sua imagem local ou URL da web */
+    background-image: url('https://i.pinimg.com/474x/e8/3a/91/e83a911000abe15e07cb03c3ac2c088a.jpg');
+    
+    /* Faz a imagem cobrir toda a tela sem distorcer */
+    background-size: cover;
+    
+    /* Centraliza a imagem no fundo */
+    background-position: center;
+    
+    /* Impede que a imagem fique se repetindo (criando ladrilhos) */
+    background-repeat: no-repeat;
+    
+    /* Mantém a imagem fixa no fundo enquanto o usuário rola a página (opcional) */
+    background-attachment: fixed;
+}
+
